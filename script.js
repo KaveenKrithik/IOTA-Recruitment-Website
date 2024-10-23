@@ -76,4 +76,3 @@ function handleResponsiveBehavior() {
 window.addEventListener('resize', handleResponsiveBehavior);
 handleResponsiveBehavior(); 
 
-
